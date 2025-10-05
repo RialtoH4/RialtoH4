@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RialtoH4
+- 👋 Hi, I’m Hanqing Li (RialtoH4)
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
